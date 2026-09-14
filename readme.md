@@ -1,4 +1,7 @@
 Banco exemplo para criar na origem e destino
+
+Levantar docker em devcode\databases\postgres-dev
+
 create table funcionarios(
 id BIGSERIAL PRIMARY KEY,
 nome VARCHAR(150) NOT NULL,
